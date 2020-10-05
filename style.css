@@ -26,7 +26,8 @@ body {
 
 h1 {
     letter-spacing: 1.5px;
-    margin: 0;
+    margin: 10px 0;
+    text-align: center;
 }
 
 h3 {
@@ -38,6 +39,7 @@ h3 {
 h4 {
     margin: 0;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .mov-container {
